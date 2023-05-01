@@ -98,8 +98,9 @@ header{
 .hero-section{
  height:86.8vh;
  background-image: url(images/smart-microchip-background-motherboard-closeup-technology.jpg);
- background-size    : contain;
+ background-size: cover;
  background-position: center;
+ background-repeat: no-repeat;
  display: flex;
  align-items: center;
  padding: 80px;
